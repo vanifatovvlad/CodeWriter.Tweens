@@ -1,0 +1,16 @@
+*.*~
+*.db
+*.sln
+*.userprefs
+*.csproj
+*.pidb
+*.unityproj
+*.apk
+.vs/
+/Assets/CodePackages/CodeWriter.PackageManager/
+/Library
+/obj
+/Temp
+/Logs/IncrementalCompiler
+*.stackdump
+.idea/
